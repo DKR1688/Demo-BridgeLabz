@@ -1,1 +1,1 @@
-# Demo-BridgeLabz
+# BridgeLabz-Training
